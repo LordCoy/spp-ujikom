@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.image {
+     color: #fff;
+     background: url('bgbg.jpg');
+     background-size: cover;
+     background-attachment: fixed;
+     background-repeat: no-repeat;  
+     width: 100%;
+     height: 100%;
+}
+
+
+#card-login
+{
+    max-width: 350px;
+    margin-top: 190px;
+    box-shadow: 0 0 30px rgba(2,2,2,.3);
+}
+
+.box
+{
+    border: 1px solid rgba(153, 153, 153, 0.75);
+    border-radius: 1px;
+    font-size: 13px !important;
+    background-color: #ffffff;
+    padding: 15px;
+    max-width: 350px;
+}
+
+
+.or-box
+{
+    position: relative;
+    border-top: 1px solid #dfdfdf;
+    padding-top: 20px;
+    margin-top:20px;
+}
+.or
+{
+    color: #666666;
+    background-color: #ffffff;
+    position: relative;
+    top: -8px;
+    width: 10%;
+}
+.account-box .btn:hover
+{
+    color: #fff;
+}

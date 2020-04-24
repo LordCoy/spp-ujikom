@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	overflow: hidden;
+}
+
+.link-card{
+	color: #333;
+}
+
+.card{
+	max-width: 300px; 
+	margin: 25px 35px 25px 35px;
+	padding: 50px;
+}
+
+.card:hover{
+	box-shadow: 0 0 10px rgba(2,2,2,.1);
+}
+
+.card i{
+	font-size: 80px;
+	color: green;
+	padding-bottom: 20px;
+}
